@@ -1,4 +1,4 @@
-========================================
+=========================================
 GALGEN.  Gallery generation for the lazy.
 =========================================
 :Info: This is the README file for GALGEN.
@@ -6,7 +6,6 @@ GALGEN.  Gallery generation for the lazy.
 :Date: 2013-01-20
 :Version: 0.1.0
 
-.. index: README
 
 PURPOSE
 -------
@@ -14,7 +13,7 @@ This is a gallery generator.
 
 INSTALLATION
 ------------
-Use the `galgen.py` file.
+Use the ``galgen.py`` file.
 
 COPYRIGHT
 ---------
