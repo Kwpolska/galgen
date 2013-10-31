@@ -22,7 +22,7 @@ See ``template.csv`` for details.
 
 COPYRIGHT
 ---------
-Copyright © 2012-2013, Kwpolska.
+Copyright © 2012-2013, Chris “Kwpolska” Warrick.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
