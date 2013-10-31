@@ -2,7 +2,7 @@
 GALGEN.  Gallery generation for the lazy.
 =========================================
 :Info: This is the README file for GALGEN.
-:Author: Kwpolska <kwpolska@kwpolska.tk>
+:Author: Chris “Kwpolska” Warrick <kwpolska@kwpolska.tk>
 :Date: 2013-01-20
 :Version: 0.1.0
 
