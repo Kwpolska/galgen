@@ -11,9 +11,14 @@ PURPOSE
 -------
 This is a gallery generator.
 
-INSTALLATION
-------------
-Use the ``galgen.py`` file.
+USAGE
+-----
+
+::
+
+./galgen.py gallery-file.csv
+
+See ``template.csv`` for details.
 
 COPYRIGHT
 ---------
