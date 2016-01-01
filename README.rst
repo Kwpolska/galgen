@@ -2,7 +2,7 @@
 GALGEN.  Gallery generation for the lazy.
 =========================================
 :Info: This is the README file for GALGEN.
-:Author: Chris “Kwpolska” Warrick <kwpolska@kwpolska.tk>
+:Author: Chris Warrick <chris@chriswarrick.com>
 :Date: 2013-01-20
 :Version: 0.1.0
 
@@ -22,7 +22,7 @@ See ``template.csv`` for details.
 
 COPYRIGHT
 ---------
-Copyright © 2012-2013, Chris “Kwpolska” Warrick.
+Copyright © 2012-2013, Chris Warrick.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
